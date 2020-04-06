@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586074427 source:c:\users\venky\desktop\cpp codes\tree\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
